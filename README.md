@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Ling-Yuan Chen, a Mechanical & Computer Science Master's student at UC Davis with a passion for robotics, AI, and autonomous systems. <br><br><br>
+Hi! I’m Ling-Yuan Chen, a Mechanical Engineering & Computer Science Master's student at UC Davis with a passion for robotics, AI, and autonomous systems. <br><br><br>
 
 
 # 💻 Tech Stack:
